@@ -1,10 +1,10 @@
-<h1>Hi, I'm Tal! <br/>Programmer </a>,Electrical engineering student </a>,Research assistant </h1>
+<h1>Hi, I'm Tal! <br/>Programmer, </a>Electrical engineering student, </a>Research assistant </h1>
 
 <h2>👨‍💻 Research Projects:</h2>
 
 - <b>Instability of radially spreading extensional
 flows Experimental analysis</b>
-  - [Code and article](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Code and article](https://github.com/talkov/Experimental-analysis-Instability-of-radially-spreading-extensional-flows.git)
 
 <h2>⚡ Other Projects</h2>
 
