@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Research & Machine Learning Projects:</h2>
 
-* <b>Instability of Radially Spreading Extensional Flows – Experimental Analysis</b>
+* <b>Instability of Radially Spreading Extensional Flows - Experimental Analysis</b>
 
   * <a href="https://github.com/talkov/Experimental-analysis-Instability-of-radially-spreading-extensional-flows">Code and Article</a>
 
-* <b>Eigen-Emotions</b>
+* <b>Eigen Emotions</b>
 
   * <a href="https://github.com/talkov/Eigen-Emotions">Image Processing Project</a>
 
