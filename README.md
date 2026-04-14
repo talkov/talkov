@@ -14,10 +14,6 @@
 
   * <a href="https://github.com/talkov/Style-Transfer">Style Transfer Project</a>
 
-<h2>⚡ Other Projects</h2>
-
-* <a href="https://github.com/talkov/Jordynvasion">Jordynvasion – Space Invaders Game</a>
-
 <h2> 🤳 Contact Info:</h2>
 
 <a href="https://www.linkedin.com/in/tal-kozakov-541845265/">
